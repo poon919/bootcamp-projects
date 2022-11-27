@@ -1,4 +1,4 @@
-# Bootcamp_projects
+# Data Science Bootcamp Projects
 Data Science Bootcamp by DataRockie
 
 Learned 10 topics in 4 months (in progress).
