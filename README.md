@@ -1,7 +1,7 @@
 # Data Science Bootcamp Projects
-Data Science Bootcamp by DataRockie
+This repository contains homeworks and projects in the Data Science Bootcamp by DataRockie
 
-Learned 10 topics in 4 months (in progress).
+### Learned 10 Topics
 
 - Spreadsheets
 - SQL Database
@@ -12,4 +12,4 @@ Learned 10 topics in 4 months (in progress).
 - Intro to Classical Machine Learning
 - Intro to Python
 - Essential Python for Data Analyst
-- Dashboard
+- Dashboard (Looker Studio, Tableau)
