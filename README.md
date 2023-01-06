@@ -1,7 +1,7 @@
 # Data Science Bootcamp Projects
 This repository contains homeworks and projects in the Data Science Bootcamp by DataRockie
 
-### Learned 10 Topics
+### Learned 10 Topics in 4 months
 
 - Spreadsheets
 - SQL Database
